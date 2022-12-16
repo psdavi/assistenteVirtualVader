@@ -1,0 +1,9 @@
+tkinter
+sounddevice
+json
+speech_recognition
+wavio
+playsound
+
+
+
